@@ -581,7 +581,7 @@ section{
 
 .parallax{
   background: url(../images/parallax.jpg) no-repeat;
-  min-height: 100vh;
+  min-height: 50vh;
   background-attachment: fixed;
   background-size: cover !important;
   background-position: center !important;
