@@ -726,6 +726,7 @@ section{
   background: var(--bg);
   border-radius: .5rem;
   width: 49%;
+  text-align: left;
 }
 
 .order .row form .inputBox input:focus,
