@@ -873,7 +873,7 @@ section{
     position: absolute;
     top: 99%;
     left: 0; right: 0;
-    background: rgb(0, 0, 0);
+    background: rgb(177, 119, 119);
     border-top: .1rem solid var(--secondary);
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
   }
